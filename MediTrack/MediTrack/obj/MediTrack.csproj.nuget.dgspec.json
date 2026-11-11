@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\MediTrack.csproj": {}
+    "E:\\Meditrack\\MediTrack\\MediTrack\\MediTrack.csproj": {}
   },
   "projects": {
-    "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\MediTrack.csproj": {
+    "E:\\Meditrack\\MediTrack\\MediTrack\\MediTrack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\MediTrack.csproj",
+        "projectUniqueName": "E:\\Meditrack\\MediTrack\\MediTrack\\MediTrack.csproj",
         "projectName": "MediTrack",
-        "projectPath": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\MediTrack.csproj",
-        "packagesPath": "C:\\Users\\Albert\\.nuget\\packages\\",
-        "outputPath": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\obj\\",
+        "projectPath": "E:\\Meditrack\\MediTrack\\MediTrack\\MediTrack.csproj",
+        "packagesPath": "C:\\Users\\phant\\.nuget\\packages\\",
+        "outputPath": "E:\\Meditrack\\MediTrack\\MediTrack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Albert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phant\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,7 +106,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.317/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

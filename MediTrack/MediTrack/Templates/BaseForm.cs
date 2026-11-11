@@ -10,9 +10,10 @@ namespace MediTrack
         protected string CurrentUsername { get; private set; }
         protected string CurrentUserId { get; private set; }
         protected string CurrentSessionToken { get; private set; }
+        protected string CurrentCompanyName { get; private set; }
         private System.Windows.Forms.Timer _sessionTimer;
         private LoginService _loginService = new LoginService();
-        private Point mouseOffset;
+        protected Point mouseOffset;
         private string _username;
         private string _companyId;
         private bool _isLoggingOut = false;
@@ -20,7 +21,7 @@ namespace MediTrack
         private static bool _isAppExiting = false;
         private string _userId;
         private string _sessionToken;
-        private bool _isClosing = false;
+        protected bool _isClosing = false;
         private bool _isNavigating = false;
 
         // Property to control whether exit confirmation is needed
