@@ -1,0 +1,10 @@
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Debug\net8.0\publish\DBConfigSetup.exe
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Debug\net8.0\publish\DBConfigSetup.dll
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Debug\net8.0\publish\DBConfigSetup.deps.json
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Debug\net8.0\publish\DBConfigSetup.runtimeconfig.json
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Debug\net8.0\publish\DBConfigSetup.pdb
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Debug\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Debug\net8.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Debug\net8.0\publish\Npgsql.dll
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Debug\net8.0\publish\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Debug\net8.0\publish\System.Security.Cryptography.ProtectedData.dll

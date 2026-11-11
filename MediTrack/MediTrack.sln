@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediTrack", "MediTrack\MediTrack.csproj", "{F7AC4250-5555-4E78-8632-811FC8D1ECB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConfigSetup", "DBConfigSetup\DBConfigSetup.csproj", "{F7179963-2799-487A-9D1A-69001778D5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7AC4250-5555-4E78-8632-811FC8D1ECB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AC4250-5555-4E78-8632-811FC8D1ECB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AC4250-5555-4E78-8632-811FC8D1ECB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AC4250-5555-4E78-8632-811FC8D1ECB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7179963-2799-487A-9D1A-69001778D5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7179963-2799-487A-9D1A-69001778D5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7179963-2799-487A-9D1A-69001778D5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7179963-2799-487A-9D1A-69001778D5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B6E2D6F-CB31-4F4A-94B7-BC0C47CB93B2}
+	EndGlobalSection
+EndGlobal

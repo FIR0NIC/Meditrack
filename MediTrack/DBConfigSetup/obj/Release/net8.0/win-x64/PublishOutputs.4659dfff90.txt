@@ -1,0 +1,2 @@
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Release\net8.0\publish\win-x64\DBConfigSetup.pdb
+C:\Users\Kris\Documents\GitHub\POS-Tindero\POS\DBConfigSetup\bin\Release\net8.0\publish\win-x64\DBConfigSetup.exe

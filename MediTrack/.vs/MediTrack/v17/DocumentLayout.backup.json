@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\startupforms\\newcompanyfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\startupforms\\newcompanyfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\meditrack\\admin\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\admin\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\admin\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\admin\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\admin\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\admin\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\meditrack\\admin\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\admin\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\meditrack\\startupforms\\newcompanyfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\startupforms\\newcompanyfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\admin\\helperclasses\\employeenumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\admin\\helperclasses\\employeenumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\admin\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\admin\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\meditrack\\startupforms\\welcomefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\startupforms\\welcomefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\login\\helperclasses\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\login\\helperclasses\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\meditrack\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\doctor\\doctordashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\doctor\\doctordashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\receptionist\\receptionistdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\receptionist\\receptionistdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\receptionist\\receptionistdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\receptionist\\receptionistdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\login\\helperclasses\\formnavigationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\login\\helperclasses\\formnavigationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\doctor\\doctordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\doctor\\doctordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\meditrack\\receptionist\\receptionistdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\receptionist\\receptionistdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\login\\helperclasses\\loginlockoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\login\\helperclasses\\loginlockoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7179963-2799-487A-9D1A-69001778D5BD}|DBConfigSetup\\DBConfigSetup.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\dbconfigsetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7179963-2799-487A-9D1A-69001778D5BD}|DBConfigSetup\\DBConfigSetup.csproj|solutionrelative:dbconfigsetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|d:\\albert\\documents\\github\\meditrack\\meditrack\\meditrack\\meditrack\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC4250-5555-4E78-8632-811FC8D1ECB1}|MediTrack\\MediTrack.csproj|solutionrelative:meditrack\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageUsers.cs [Design]",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Admin\\ManageUsers.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\ManageUsers.cs [Design]",
+              "RelativeToolTip": "MediTrack\\Admin\\ManageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:32:32.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageUsers.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Admin\\ManageUsers.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\ManageUsers.cs",
+              "RelativeToolTip": "MediTrack\\Admin\\ManageUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQCAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:38:08.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Admin\\AdminDashboard.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\AdminDashboard.cs",
+              "RelativeToolTip": "MediTrack\\Admin\\AdminDashboard.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAIA5wG8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:26:35.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewCompanyFrm.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\StartUpForms\\NewCompanyFrm.cs",
+              "RelativeDocumentMoniker": "MediTrack\\StartUpForms\\NewCompanyFrm.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\StartUpForms\\NewCompanyFrm.cs",
+              "RelativeToolTip": "MediTrack\\StartUpForms\\NewCompanyFrm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:23:09.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Admin\\AdminDashboard.Designer.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "MediTrack\\Admin\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAIAywIMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:32:20.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Admin\\AdminDashboard.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "MediTrack\\Admin\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:30:16.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employeenumberservice.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\HelperClasses\\Employeenumberservice.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Admin\\HelperClasses\\Employeenumberservice.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Admin\\HelperClasses\\Employeenumberservice.cs",
+              "RelativeToolTip": "MediTrack\\Admin\\HelperClasses\\Employeenumberservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:22:06.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewCompanyFrm.cs [Design]",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\StartUpForms\\NewCompanyFrm.cs",
+              "RelativeDocumentMoniker": "MediTrack\\StartUpForms\\NewCompanyFrm.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\StartUpForms\\NewCompanyFrm.cs [Design]",
+              "RelativeToolTip": "MediTrack\\StartUpForms\\NewCompanyFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T00:59:05.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\LogIn\\HelperClasses\\LoginService.cs",
+              "RelativeDocumentMoniker": "MediTrack\\LogIn\\HelperClasses\\LoginService.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\LogIn\\HelperClasses\\LoginService.cs",
+              "RelativeToolTip": "MediTrack\\LogIn\\HelperClasses\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:04:15.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WelcomeFrm.cs [Design]",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\StartUpForms\\WelcomeFrm.cs",
+              "RelativeDocumentMoniker": "MediTrack\\StartUpForms\\WelcomeFrm.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\StartUpForms\\WelcomeFrm.cs [Design]",
+              "RelativeToolTip": "MediTrack\\StartUpForms\\WelcomeFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T00:58:54.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Doctor\\DoctorDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Doctor\\DoctorDashboard.Designer.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Doctor\\DoctorDashboard.Designer.cs",
+              "RelativeToolTip": "MediTrack\\Doctor\\DoctorDashboard.Designer.cs",
+              "ViewState": "AgIAACECAAAAAAAAAAA7wDICAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:38:33.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogInForm.cs [Design]",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\LogIn\\LogInForm.cs",
+              "RelativeDocumentMoniker": "MediTrack\\LogIn\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\Albert\\Desktop\\MediTrack\\MediTrack\\MediTrack\\LogIn\\LogInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:01:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogInForm.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\LogIn\\LogInForm.cs",
+              "RelativeDocumentMoniker": "MediTrack\\LogIn\\LogInForm.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\LogIn\\LogInForm.cs",
+              "RelativeToolTip": "MediTrack\\LogIn\\LogInForm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA1wAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:01:58.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormNavigationHelper.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\LogIn\\HelperClasses\\FormNavigationHelper.cs",
+              "RelativeDocumentMoniker": "MediTrack\\LogIn\\HelperClasses\\FormNavigationHelper.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\LogIn\\HelperClasses\\FormNavigationHelper.cs",
+              "RelativeToolTip": "MediTrack\\LogIn\\HelperClasses\\FormNavigationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:30:45.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Program.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Program.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Program.cs",
+              "RelativeToolTip": "MediTrack\\Program.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAywHUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T09:55:42.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorDashboard.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Doctor\\DoctorDashboard.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Doctor\\DoctorDashboard.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Doctor\\DoctorDashboard.cs",
+              "RelativeToolTip": "MediTrack\\Doctor\\DoctorDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:29:18.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReceptionistDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Receptionist\\ReceptionistDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Receptionist\\ReceptionistDashboard.Designer.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Receptionist\\ReceptionistDashboard.Designer.cs",
+              "RelativeToolTip": "MediTrack\\Receptionist\\ReceptionistDashboard.Designer.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAA7wIYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:19:57.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReceptionistDashboard.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Receptionist\\ReceptionistDashboard.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Receptionist\\ReceptionistDashboard.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Receptionist\\ReceptionistDashboard.cs",
+              "RelativeToolTip": "MediTrack\\Receptionist\\ReceptionistDashboard.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:10:30.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReceptionistDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Receptionist\\ReceptionistDashboard.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Receptionist\\ReceptionistDashboard.cs",
+              "ToolTip": "C:\\Users\\Albert\\Desktop\\MediTrack\\MediTrack\\MediTrack\\Receptionist\\ReceptionistDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:10:26.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginLockoutService.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\LogIn\\HelperClasses\\LoginLockoutService.cs",
+              "RelativeDocumentMoniker": "MediTrack\\LogIn\\HelperClasses\\LoginLockoutService.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\LogIn\\HelperClasses\\LoginLockoutService.cs",
+              "RelativeToolTip": "MediTrack\\LogIn\\HelperClasses\\LoginLockoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:06:44.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\DBConfigSetup\\Program.cs",
+              "RelativeDocumentMoniker": "DBConfigSetup\\Program.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\DBConfigSetup\\Program.cs",
+              "RelativeToolTip": "DBConfigSetup\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:36:00.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Database\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "MediTrack\\Database\\DatabaseService.cs",
+              "ToolTip": "D:\\Albert\\Documents\\GitHub\\Meditrack\\MediTrack\\MediTrack\\MediTrack\\Database\\DatabaseService.cs",
+              "RelativeToolTip": "MediTrack\\Database\\DatabaseService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAA1wGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:10:52.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
